@@ -62,7 +62,7 @@ typings/
 .next
 
 .DS_Store
-.idea
+.idea/*
 package-lock.json
 .dist
 ./extenstion.zip
